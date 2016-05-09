@@ -1,0 +1,10 @@
+MIDlet-1: BlueMonitorMIDPNew, BlueMonitorMIDPNew.png, BPMonitor
+MIDlet-Data-Size: 30000
+MIDlet-Jar-Size: 12003401
+MIDlet-Jar-URL: BlueMonitorMIDPNew.jar
+MIDlet-Name: BlueMonitorMIDPNew
+MIDlet-Permissions: javax.microedition.io.Connector.file.read,javax.microedition.io.Connector.file.write
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
